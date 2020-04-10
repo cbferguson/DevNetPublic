@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 certifi==2020.4.5.1
 chardet==3.0.4
 idna==2.9
 requests==2.23.0
 urllib3==1.25.8
+=======
+
+>>>>>>> ee7e9a4a8791e133d732fccceccc90a2824eaeb6
